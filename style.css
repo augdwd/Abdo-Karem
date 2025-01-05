@@ -47,29 +47,31 @@ h2{
    border-radius: 50px;
 }
 .anm{
-    width: 150px;
+    width: 200px;
     color: black;
    display: block;
-   height: 30px;
+   height: 50px;
    border-radius: 50px;
    box-shadow: 5px 5px 2px rgb(0, 0, 0);
    border: none;
    font-weight: bold;
    display:flexbox;
    position: relative;
-   right: 390px;
+   right: 39vh;
    
 }
 #result{
 text-align: center;
 border: solid;
 box-shadow: 5px 5px rgb(0, 0, 0);
-width: 100px;
+width: 30vh;
 position: relative;
-right: 400px;
+  right: 40vh;
 }
 h3{
    display:list-item;
    
 }
-
+input{
+    transform: scale(2);
+}
