@@ -57,7 +57,7 @@ h2{
    font-weight: bold;
    display:flexbox;
    position: relative;
-   right: 39vh;
+   left: 20px;
    
 }
 #result{
