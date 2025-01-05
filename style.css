@@ -10,7 +10,7 @@ html{
 body{
     background: linear-gradient(135deg,#1e1e2f, #3a3a5f);
 
-   font-size: 2vh;
+
    
 }
 body{
@@ -57,7 +57,7 @@ h2{
    font-weight: bold;
    display:flexbox;
    position: relative;
-   left: 70px;
+ right:39px;
    
 }
 #result{
@@ -66,12 +66,9 @@ border: solid;
 box-shadow: 5px 5px rgb(0, 0, 0);
 width: 3vh;
 position: relative;
-  left:70px;
+  right:39px;
 }
 h3{
    display:list-item;
    
-}
-input{
-    transform: scale(1);
-}
+
